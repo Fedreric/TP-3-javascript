@@ -1,6 +1,7 @@
 function generarTabla(num) {
+    document.write('<section class = "contenedor">');
     document.write(`<h1>Tabla del ${num}</h1>`);
-    document.write(`<table border="1">
+    document.write(`<table>
                            <tbody>`);                 
     for (let i = 1; i <= 10; i++) {
         document.write('<tr>');
@@ -17,19 +18,12 @@ function generarTabla(num) {
 
     document.write(`    </tbody>
                     </table>`);
+    document.write('</section>');
 }
 
-
-
-
-
-
-
-
-
-
-
-
-const num = parseInt(prompt('Ingresa un numero'));
-
-generarTabla(num);
+    const num = parseInt(prompt('Ingresa un numero'));
+    if(!isNaN(num)){
+        generarTabla(num);
+    }else{
+        alert('Solo se pueden ingresar numeros');
+    }
