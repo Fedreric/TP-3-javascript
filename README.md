@@ -1,8 +1,8 @@
-# Trabajo practico N°2: Javascript
+# Trabajo practico N°3: Javascript
 
 ![javascript](https://soyhorizonte.com/wp-content/uploads/2020/10/Javascript-by-SoyHorizonte.jpg)
 
-Segundo trabajo practico de javascript, cuenta con 17 puntos a desarrollar donde se fortalecen los conocimientos en bucles y algunas funciones numericas, de tipo string (math, chartAT,toLowerCase,etc) y validaciones.
+Tercer trabajo practico de javascript, cuenta con 7 puntos a desarrollar: 3 ejercicios para trabajar con arrays y 4 con funciones,en ellos se fortalecen los conocimientos en arrays y funciones.
 
 
 ## Requisitos ✅
@@ -16,7 +16,7 @@ Segundo trabajo practico de javascript, cuenta con 17 puntos a desarrollar donde
 ## Para clonar el repositorio 💻
 
 ```bash
-git clone https://github.com/Fedreric/TP2-javascript.git
+git clone https://github.com/Fedreric/TP-3-javascript.git
 ```
 
 ## Autor 👨‍💻
