@@ -4,7 +4,7 @@
 
 Tercer trabajo practico de javascript, cuenta con 7 puntos a desarrollar: 3 ejercicios para trabajar con arrays y 4 con funciones,en ellos se fortalecen los conocimientos en arrays y funciones. 
 
-Ademas cuenta con un ejercicio opcional con un juego de piedra papel o tijeras.
+Ademas cuenta con un ejercicio opcional de piedra papel o tijeras.
 
 
 ## Requisitos ✅
