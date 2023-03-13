@@ -1,0 +1,10 @@
+.contenedor{
+    margin: 40px;
+}
+.contenedor table{
+    box-shadow: 10px 5px 5px rgb(148, 148, 148);
+}
+.contenedor table tr td{
+    border-right: 2px solid #93d092;
+    border-bottom: 2px solid #93d092;
+}
